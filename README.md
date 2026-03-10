@@ -29,6 +29,7 @@ O projeto tem como objetivo praticar **manipulação de DOM**, **validação de 
 ---
 
 ## 📂 Estrutura do projeto
+```
 ├── index.html
 ├── styles.css
 ├── scripts.js
